@@ -1,0 +1,24 @@
+.navbar{
+    border: 2px solid #ebe4e4;
+    box-shadow: 5px 5px 10px #e3d3d3;;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.nav-item{
+    margin-left: 10px;
+    box-shadow: 5px 5px 10px #dacff3;
+}
+
+.d-flex{
+    margin-left: 200px;
+}
+
+.sign-up{
+    background-color: #c6d8ec;
+    border: 1px solid #f0a9d8;
+}
