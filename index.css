@@ -22,3 +22,12 @@
     background-color: #c6d8ec;
     border: 1px solid #f0a9d8;
 }
+
+.carousel-inner{
+    padding: 0px 80px;
+}
+
+.carousel-item img{
+    height: 600px;
+    width: 90vw;
+}
